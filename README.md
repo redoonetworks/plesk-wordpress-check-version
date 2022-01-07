@@ -1,0 +1,1 @@
+# plesk-wordpress-check-version
